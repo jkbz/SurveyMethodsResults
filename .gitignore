@@ -1,3 +1,6 @@
+# Custom project files
+api_auth.rb
+
 *.gem
 *.rbc
 /.config
@@ -9,7 +12,6 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
-api_auth.rb
 
 # Used by dotenv library to load environment variables.
 # .env
