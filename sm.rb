@@ -9,8 +9,8 @@ SITEURL = 'https://api.surveymethods.com/v1/'
 
 ################# Parameters #################
 
-@username = get_api_username
-@token    = get_api_token
+USERNAME = get_api_username
+TOKEN    = get_api_token
 
 @survey_list = get_survey_id
 
